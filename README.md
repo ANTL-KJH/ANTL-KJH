@@ -10,6 +10,9 @@
 src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img alt="C++"                                                             src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt="Python"
 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
+[![ANTL-KJH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANTL-KJH)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANTL-KJH&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=ANTL-KJH%27s+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
