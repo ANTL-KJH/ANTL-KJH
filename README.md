@@ -1,6 +1,6 @@
 # Welcome to JH KIM's GitHub 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=ffd7d5&height=300&section=header&text=ANTL-KJH&fontSize=150)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=ANTL-KJH&fontSize=150)
 
 
 ### about me
