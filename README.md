@@ -1,8 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=ANTL-KJH&animation=fadeIn&fontSize=150)
+
 # Welcome to JH KIM's GitHub 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=ANTL-KJH&fontSize=150)
-
-
 ### about me
 <a href="https://www.instagram.com/jh_k_0222/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
