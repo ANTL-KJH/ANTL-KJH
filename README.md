@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=ANTL-KJH&animation=fadeIn&fontSize=150)
+<!--참고(https://github.com/kyechan99/capsule-render#color)-->
 
 # Welcome to JH KIM's GitHub 👋
 ### about me
@@ -10,6 +11,8 @@ src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=
 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANTL-KJH&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=ANTL-KJH%27s+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **ANTL-KJH/ANTL-KJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
