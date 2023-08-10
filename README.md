@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=400&section=header&text=Welcome%20to%20%-nl-KJH's%20GitHub&animation=fadeIn&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=400&section=header&text=Welcome%20to%20%-nl-KJH's%20GitHub&animation=fadeIn&fontSize=100&fontAlignY=20)
 <!--참고(https://github.com/kyechan99/capsule-render#color)-->
 
 <!--# Welcome to JH KIM's GitHub 👋-->
