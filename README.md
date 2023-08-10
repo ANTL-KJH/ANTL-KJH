@@ -15,7 +15,7 @@ src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&
 [![ANTL-KJH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANTL-KJH)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!--BaekJoon Online Judge-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=antl_kjh)](https://solved.ac/antl_kjh/)
+[[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=antl_kjh)](https://solved.ac/antl_kjh/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANTL-KJH&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=ANTL-KJH%27s+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
