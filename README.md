@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/jh_k_0222/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 # Contact
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> wogus9190@gmail.com
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></br> wogus9190@gmail.com
 
 # Skills
 ## Programming
