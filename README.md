@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/jh_k_0222/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 # Contact
-* E-mail : wogus9190@gmail.com
+* E-mail : wogus9190@yu.ac.kr
 
 # Skills
 ## Programming
